@@ -52,40 +52,13 @@ class ViewController: UIViewController {
         
         
         
-//        let leftSwipe = UISwipeGestureRecognizer(target: self, action: #selector(handleSwipe(sender:)))
-//        leftSwipe.direction = .left
-//
-//        let rightSwipe = UISwipeGestureRecognizer(target: self, action: #selector(handleSwipe(sender:)))
-//        rightSwipe.direction = .right
-//
-//        view.addGestureRecognizer(leftSwipe)
-//        view.addGestureRecognizer(rightSwipe)
+
 
        
     }
     
-//    @objc func handleSwipe (sender : UISwipeGestureRecognizer){
-//        var index : Int = 2
-//        if sender.state == .ended {
-//            switch sender.direction {
-//            case .right :
-//                index = index + 1
-//            case .left :
-//                index = index - 1
-//            default :
-//                break
-//
-//
-//            }
-//           imageSlider.image = UIImage(named: images[index])
-//
-//
-//        }
-//
-//    }
-//
-//
-//
+
+
 
     //Mark :- fun Radius view
     func readius() {
